@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+#start,#status,#number_of_objects{
+    font-size: 18px;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    color: gold;
+    width: 100%;
+    font-family: 'Cedarville Cursive', cursive;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    border: 2px solid white;
+    margin-top: 130px;
+}
